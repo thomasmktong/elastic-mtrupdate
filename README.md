@@ -13,12 +13,8 @@ This project is currently hosted on Azure:
 - Kibana: (http://mtr.eastasia.cloudapp.azure.com:5601/)
 - Elastic Search (http://mtr.eastasia.cloudapp.azure.com/twitter_elk_mtrupdate/_search/) (GET only)
 
-Below are some data extractions done after running the stack for 3 days. Screenshots will be uploaded from time to time.
+Screenshots will be uploaded from time to time.
 
 # Tweets about Delays
 
-![Delay](https://raw.githubusercontent.com/thomasmktong/elastic-mtrupdate/master/screenshot/screencapture-0-0-0-0-5601-app-kibana-1467985548483.png)
-
-# All tweets
-
-![All](https://raw.githubusercontent.com/thomasmktong/elastic-mtrupdate/master/screenshot/screencapture-0-0-0-0-5601-app-kibana-1467985520669.png)
+![Delay](https://raw.githubusercontent.com/thomasmktong/elastic-mtrupdate/master/screenshot/screencapture-mtr-eastasia-cloudapp-azure-com-5601-app-kibana-1471080014708.png)
